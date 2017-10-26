@@ -335,10 +335,14 @@ nav{
 
 form {
 	width: 100%;
-	margin-bottom: 20px;
 	display: inline-block;
 	font-family: 'Lato', sans-serif; 
+	z-index: 3;
+	position: absolute;
+	line-height: 8;
+	left: 300px;
 }
+
 
 input{
 	width: 60%;
@@ -350,9 +354,6 @@ input{
 	outline: 0;
 	resize: none;
 	color: #495057;
-	position: absolute;
-	left: 300px;
-	margin-top: 400px;
 }
 
 
@@ -367,8 +368,9 @@ textarea {
 	resize: none;
 	color: #495057;
 	position: absolute;
-	left: 300px;
-	margin-top: 490px;
+	left: 0px;
+	top: 400px;
+	
 }
 
 input {
@@ -390,7 +392,7 @@ input {
 	vertical-align: center;
 	position: absolute;
 	left: 300px;
-	margin-top: 680px;
+	margin-top: 620px;
 }
 
 .button-send a:hover {
