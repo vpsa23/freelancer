@@ -82,20 +82,20 @@ Este reto será evaluado sobre lo siguiente:
 
 /*Mi README*/
 
-##Primera Parte
+## Primera Parte
 #### Coloque una etiqueta ul con una lista ubicando el menú, le coloque una posición fija 
 
-##Segunda Parte
+## Segunda Parte
 #### Hice un div y dentro de es div coloque la imagen junto con 3 div más lo cual estaba ubicando el texto, a esté le fui dando tipografía, color y posición. Ubicandolos tal como el sitio original 
 
-##Tercera Parte 
+## Tercera Parte 
 #### En la parte del portafolio, coloque las imagenes a través de div y también fui posicionandolos uno por uno.
 
-##Cuarta Parte
+## Cuarta Parte
 #### En esta sección coloque todo dentro de un div, lo cual le fui colocando tipografia, color y posicionandolos cada uno. Agregamos un button de Downloan y le coloque padding, borde rendondos y hover para que cambiara de color al momento de colocar el cursor en el boton de Downloan
 
-##Quinta Parte
+## Quinta Parte
 #### En esta parte aprendí a usar la etiqueta input, la cual tuve que investigar como utilizarla. Se utiliza para los formularios de las paginas web. Utilice 3 etiquetas input y luego utilice de nuevo la etiqueta button.
 
-##Sexta Parte
+## Sexta Parte
 #### Aca coloque los iconos de las redes sociales, los ubique igual con position. También use HOVER para darle color al colocar el curso encima de la palabra Start Bootstrap.
